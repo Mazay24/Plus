@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="button_plus_text">Сложить</string>
+    <string name="returning">Вернуться в начало</string>
+</resources>
